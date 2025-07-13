@@ -1,16 +1,20 @@
-## Hi there 👋
+## SALUT 👋
 
-<!--
-**sam176521/Sam176521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**sam176521/Sam176521** Salut moi c'est sam .
+developpeur web passionné 
+spécialisé en *html * et *css*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 je suis a la recherche d'un *emploi * et toujours *curieux* d'en apprendre plus .
+  
+ compétences :
+-HTML5
+-CSS3
+-responsive design 
+- esprit d'equipe et motivation .
+
+- 📫 me contacter
+-[sam176521](HTTPS :/github.com/sam176521)
+merci de visiter mon profil et ne vous genez pas pour  me contacter et échangé.
+
+
