@@ -1,20 +1,45 @@
-## SALUT 👋
 
 
-**sam176521/Sam176521** Salut moi c'est sam .
-developpeur web passionné 
-spécialisé en *html * et *css*.
+```markdown
+Salut 👋, moi c'est Sam
 
-- 🔭 je suis a la recherche d'un *emploi * et toujours *curieux* d'en apprendre plus .
-  
- compétences :
--HTML5
--CSS3
--responsive design 
-- esprit d'equipe et motivation .
+🎯 *Développeur Web Junior*  
+📍 Lubumbashi, RDC  
+📧 naelnays@gmail.com  
+📄 [Voir mon CV en ligne](https://docs.google.com/document/d/1kpUacJ73TPXbUaI_CmCQ5QBy_3O1ZgOYekpvxifFPhU/edit?usp=drivesdk)
 
-- 📫 me contacter
--[sam176521](HTTPS :/github.com/sam176521)
-merci de visiter mon profil et ne vous genez pas pour  me contacter et échangé.
+---
+
+🔧 Compétences
+
+- HTML5  
+- CSS3  
+- Responsive Design  
+- Python (bases)  
+- Git / GitHub  
+- Visual Studio Code  
+
+---
+
+💼 Projets
+
+*Portfolio Développeur Web*  
+- Site personnel codé en HTML/CSS  
+- Responsive  
+- Code sur [GitHub](https://github.com/sam176521)
+
+---
+
+🎓 Formation
+
+*Développeur Web – Autodidacte*  
+Depuis 2024 – apprentissage via projets, tutoriels et documentation
+
+---
+
+Merci d’avoir visité mon profil 🙌
+```
+
+
 
 
